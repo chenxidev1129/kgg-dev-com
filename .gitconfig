@@ -1,0 +1,8 @@
+[commit]
+    gpgsign = true
+[user]
+    email = chenxidev1129@gmail.com
+    name = Hai Chi
+    signingkey = 8779E389D94D5CDB
+[gpg]
+    program = gpg
